@@ -1,0 +1,10 @@
+03 RANCANGAN SISTEM
+APLIKASI GAME EDUKASI BAHASA INGGRIS
+
+1. STRUCTURAL FLOW
+- Main App -> SelectGradePage -> SelectChapterPage -> GamePlayPage
+
+2. KOMPONEN UTAMA
+- SelectGradePage: Grid 6 kartu kelas dengan mascot & warna cerah.
+- SelectChapterPage: Daftar horizontal topik materi per kelas.
+- GamePlayPage: Engine game dinamis 4 jenis soal.

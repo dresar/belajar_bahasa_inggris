@@ -1,0 +1,11 @@
+08 ANIMATION SYSTEM
+APLIKASI GAME EDUKASI BAHASA INGGRIS
+
+1. ANIMASI MEMBAL (SCALE ANIMATION)
+- Mengubah skala 1.0 -> 0.94 saat disentuh untuk sensasi membal (bounce).
+
+2. ANIMASI MELUNCUR (SLIDE ANIMATION)
+- Transisi elemen masuk dari bawah/kanan dengan Curves.easeOutCubic.
+
+3. ANIMASI DENYUT (PULSE ANIMATION)
+- Bintang emas berdenyut halus 1.0 -> 1.12 dalam durasi 2 detik loop.

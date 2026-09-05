@@ -1,0 +1,13 @@
+05 DESIGN SYSTEM
+APLIKASI GAME EDUKASI BAHASA INGGRIS
+
+1. WARNA UTAMA
+- Yellow Cream Background: #FFFDE7
+- Primary Blue: #1E88E5
+- Magenta Back Button: #E24379
+- Green Success: #4CAF50 / #00C853
+- Gold Star: #FFB300
+
+2. TYPOGRAPHY
+- Headings: Bold / ExtraBold Rounded
+- Body Text: Clean Medium

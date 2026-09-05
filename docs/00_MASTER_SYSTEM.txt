@@ -1,0 +1,16 @@
+00 MASTER SYSTEM
+APLIKASI GAME EDUKASI BAHASA INGGRIS (SUPER SIMPLE EDITION)
+
+1. DESKRIPSI APLIKASI
+Aplikasi game edukasi Bahasa Inggris interaktif untuk anak-anak (Kelas 1 - Kelas 6) tanpa login, langsung masuk ke menu utama.
+
+2. ALUR 3 LAYAR UTAMA
+- Layar 1: Pilih Kelas (Kelas 1 sampai Kelas 6)
+- Layar 2: Pilih Topik (Greeting, Introduction, My Number, He or She)
+- Layar 3: Dedicated Full-Screen Animated Game (Phrase Builder, Quiz, Pair Match, Listening)
+
+3. ATURAN PENGEMBANGAN
+- Zero login / Zero authentication.
+- Tanpa modal popup pada halaman game.
+- Tombol kembali (back button) melingkar magenta (#E24379).
+- Animasi membal (scale animation) & berdenyut (pulse animation).

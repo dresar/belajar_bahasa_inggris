@@ -1,0 +1,10 @@
+06 UI UX GUIDELINE
+APLIKASI GAME EDUKASI BAHASA INGGRIS
+
+1. PRINCIPLES
+- Ramah anak (Kids-friendly design).
+- Warna-warni kontras tinggi & elemen visual bulat (Rounded 20-28px).
+
+2. FEEDBACK SYSTEM
+- Tactile Scale press animation saat tombol atau chip ditekan.
+- Haptic feedback (light / medium impact) pada interaksi.

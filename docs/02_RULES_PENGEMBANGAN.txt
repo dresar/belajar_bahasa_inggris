@@ -1,0 +1,14 @@
+02 RULES PENGEMBANGAN
+APLIKASI GAME EDUKASI BAHASA INGGRIS
+
+1. ARSITEKTUR KODE
+- Sederhana, bersih, tanpa dependensi berlebih.
+- Menggunakan Flutter Material 3.
+
+2. PENGELOLAAN DATA
+- Materi dan soal game disimpan dalam GameRepository (Dynamic Engine).
+- Bebas hardcode pada komponen tampilan UI.
+
+3. KUALITAS KODE
+- Harus lolos `flutter analyze` dengan 0 error & 0 warning.
+- Kode tanpa komentar sesuai standar kebersihan.

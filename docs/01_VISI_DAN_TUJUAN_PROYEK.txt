@@ -1,0 +1,10 @@
+01 VISI DAN TUJUAN PROYEK
+APLIKASI GAME EDUKASI BAHASA INGGRIS
+
+1. VISI
+Menyajikan game edukasi Bahasa Inggris paling sederhana, menyenangkan, dan cepat diakses untuk anak-anak sekolah dasar.
+
+2. TUJUAN
+- Akses langsung tanpa pendaftaran atau login.
+- Membantu anak-anak belajar kata dan frasa Bahasa Inggris secara visual & audio.
+- Pengalaman UI/UX yang responsif, beranimasi, dan mulus pada posisi potret dan lanskap.

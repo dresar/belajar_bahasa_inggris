@@ -1,0 +1,10 @@
+07 RESPONSIVE RULES
+APLIKASI GAME EDUKASI BAHASA INGGRIS
+
+1. ORIENTATION ADAPTATION
+- Potret (Portrait): Grid 2 kolom, elemen bertumpuk vertikal.
+- Lanskap (Landscape): Grid 3 kolom, tata letak menyamping yang luas.
+
+2. SAFE AREA & SCROLLING
+- Menggunakan SafeArea untuk menghindari poni layar.
+- Menggunakan SingleChildScrollView / ListView agar tidak ada overflow.

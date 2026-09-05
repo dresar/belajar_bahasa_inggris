@@ -1,0 +1,15 @@
+04 STRUKTUR FOLDER
+APLIKASI GAME EDUKASI BAHASA INGGRIS
+
+lib/
+├── main.dart
+├── models/
+│   └── game_content.dart
+├── pages/
+│   ├── select_grade_page.dart
+│   ├── select_chapter_page.dart
+│   └── game_play_page.dart
+└── shared/
+    └── animations/
+        ├── scale_animation.dart
+        └── slide_animation.dart

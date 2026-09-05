@@ -1,0 +1,12 @@
+09 GAME ENGINE
+APLIKASI GAME EDUKASI BAHASA INGGRIS
+
+1. GAME MODES
+- Phrase Builder: Menyusun kata ke slot frasa.
+- Multiple Choice Quiz: Memilih jawaban benar dari 3 pilihan.
+- Pair Matching: Memasangkan kata atas dan bawah.
+- Listening Challenge: Mendengarkan audio dan memilih kalimat.
+
+2. PROGRESS TRACKING
+- Kapsul bintang emas menampilkan persentase kemajuan (0% - 100%).
+- Layar selebrasi dengan piala berdenyut saat game selesai.
